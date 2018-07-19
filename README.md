@@ -1,4 +1,5 @@
-# pimp-spfx-generator - Generate a starter Yeoman template extending for SPFx
+# Pimp SPFx Generator
+### Generate a starter Yeoman template extending for SPFx
 
 This sample generator performs the following actions:
 * Apply custom config (replaces gulp file)
