@@ -42,5 +42,6 @@ yo pimpspfx
 
 ## Special thanks to:
 
+* [Diogo Martins](https://github.com/d-martins)
 * [Rodrigo Silva](https://github.com/RodCoder)
 * [Waldek Mastykarz](https://github.com/waldekmastykarz) - [Hello World Angular Elements Web Part](https://github.com/SharePoint/sp-dev-fx-webparts/tree/master/samples/angularelements-helloworld)
