@@ -43,6 +43,13 @@ The basic usage is to start a new project through:
 yo pimpspfx
 ```
 
+## Troubleshooting
+If it looks like the generator is going into an infinite loop, repeating the same questions over and over, try to re-install the spfx generator:
+```sh
+npm rm --global @microsoft/generator-sharepoint
+npm install --global @microsoft/generator-sharepoint
+```
+
 
 ## Special thanks to:
 
